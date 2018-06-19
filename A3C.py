@@ -6,14 +6,6 @@ Created on Tue Jun 19 18:41:21 2018
 @author: lihaoruo
 """
 
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 15 00:20:24 2018
-
-@author: lihaoruo
-"""
-
 import threading
 import numpy as np
 import os
