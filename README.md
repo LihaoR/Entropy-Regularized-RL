@@ -4,7 +4,7 @@
 
 Run it by 
 ```
-python A3C
+python A3C.py
 ```
 
 ### Paper 
