@@ -1,6 +1,6 @@
 # Entropy-Regularized-RL
 
-### This is A3C with Proper Entropy Bounses( Also GAE).
+This is A3C with Proper Entropy Bounses( Also GAE).
 
 Run it by 
 ```
