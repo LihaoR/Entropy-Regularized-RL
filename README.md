@@ -2,7 +2,7 @@
 
 This is A3C with Proper Entropy Bounses( Also GAE).
 
-The gaussian kernel is from haarnoja.
+The gaussian kernel is from haarnoja. I will upload sql and sac soon.
 
 Run it by 
 ```
