@@ -2,6 +2,8 @@
 
 This is A3C with Proper Entropy Bounses( Also GAE).
 
+The gaussian kernel is from haarnoja.
+
 Run it by 
 ```
 python A3C.py
