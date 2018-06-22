@@ -14,6 +14,4 @@ The gaussian kernel is from haarnoja. This is for atari, there exist some proble
 
 [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
 
-
-
-## Now I didn't test !
+## I haven't test yet!
