@@ -2,12 +2,13 @@
 
 This is A3C with Proper Entropy Bounses( Also GAE).
 
-The gaussian kernel is from haarnoja. I will upload sql and sac soon.
-
 Run it by 
 ```
 python A3C.py
 ```
+### soft q learning
+
+The gaussian kernel is from haarnoja. I will upload sql and sac soon. This is for atari, but I didn't test, I think there exist some problems, I will fix them soon.
 
 ### Paper 
 
