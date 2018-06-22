@@ -85,7 +85,7 @@ class AC_Network():
                 self.value_loss = 0.5 * tf.reduce_sum(tf.square(self.target_v - self.q_out)) ## theta
                 
                 # total loss
-                self.loss = 0.5 * self.value_loss + self.policy_loss + self.q_loss
+                self.loss = self.value_loss + self.policy_loss + self.q_loss
 
                 local_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, scope)
                 self.gradients = tf.gradients(self.loss,local_vars)
