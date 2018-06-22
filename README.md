@@ -8,8 +8,12 @@ python A3C.py
 ```
 ### soft q learning
 
-The gaussian kernel is from haarnoja. This is for atari, but I didn't test, I think there exist some problems, I will fix them soon.
+The gaussian kernel is from haarnoja. This is for atari, there exist some problems, I will fix them soon.
 
 ### Paper 
 
 [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
+
+
+
+## Now I didn't test !
