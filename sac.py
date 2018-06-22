@@ -79,7 +79,7 @@ class AC_Network():
                         self.q_out - 0.01 * self.log_pi)))
 
                 self.policy_loss = tf.reduce_sum(self.log_pi * tf.stop_gradient(
-                        self.log_pi - self.target_v + self.values))
+                        0.01 * self.log_pi - self.target_v + self.values))
                 
                 # critic loss
                 self.value_loss = 0.5 * tf.reduce_sum(tf.square(self.target_v - self.q_out)) ## theta
