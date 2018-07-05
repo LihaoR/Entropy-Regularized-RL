@@ -21,5 +21,3 @@ python sac.py
 ### Paper 
 
 [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
-
-## I haven't test yet!
