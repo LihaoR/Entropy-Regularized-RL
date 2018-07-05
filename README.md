@@ -12,8 +12,12 @@ The gaussian kernel is from haarnoja. This is for atari, there exist some proble
 
 ### soft actor critic
 
-After reading paper, I think sac can be almost like a3c...
+After reading paper, I think sac can be almost like a3c...And because of the entropy, it's will not converge faster than a3c in my experiment.
 
+Run it by
+```
+python sac.py
+```
 ### Paper 
 
 [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
