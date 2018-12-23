@@ -24,4 +24,5 @@ sac_new.py is ddpg style. fixed alpha
 ### Paper 
 
 [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
+
 [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
