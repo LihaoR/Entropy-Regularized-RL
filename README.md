@@ -19,7 +19,7 @@ Run it by
 python sac.py
 ```
 
-sac_new.py is ddpg style. fixed alpha
+sac_new.py is ddpg style. fixed alpha, just for fun ~
 
 ### Paper 
 
