@@ -23,6 +23,8 @@ sac_new.py is ddpg style. fixed alpha, just for fun ~
 
 ### Paper 
 
+[Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
+
 [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
 
 [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
